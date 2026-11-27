@@ -23,7 +23,7 @@ const wishlistData = {
         {
             "title": "Essential Parfums - Discovery Set",
             "link": "https://www.essentialparfums.com/en/products/discovery-set",
-            "image": "https://www.essentialparfums.com/cdn/shop/files/DA20260126_1022Mb_019ae183-a91c-4840-acf2-344eb9978211.jpg?crop=center&height=1600&v=1776933557&width=1600"
+            "image": "https://www.rivieraprofumi.com/wp-content/uploads/2024/03/New_Discovery_Set_Essential_12_fragranze.jpg"
         },
         {
             "title": "UGREEN Nexode 100W",
@@ -53,17 +53,17 @@ const wishlistData = {
         {
             "title": "Orbitkey Key Organiser",
             "link": "https://www.orbitkey.eu/collections/key-organiser/products/orbitkey-2-0-leather?variant=45990252742",
-            "image": "https://www.orbitkey.eu/cdn/shop/files/orbitkey-leather-black-with-black-stitching-3_ec732dd2-ae32-4897-9fc8-6504e4337056.jpg?v=1752536709&width=1200"
+            "image": "https://www.mukama.com/cdn/shop/files/5555.jpg?v=1717321626&width=1214"
         },
         {
             "title": "Bellroy Key Cover",
-            "link": "https://it.bellroy.com/products/key-cover?color=black&material=leather&size=standard#slide-0",
-            "image": "https://bellroy-product-images.imgix.net/bellroy_dot_com_gallery_image/EUR/EKCE-BLK-101/0?auto=format&fit=max&w=1920&h=1920"
+            "link": "https://amzn.eu/d/07PuNzbV",
+            "image": "https://m.media-amazon.com/images/I/61qTI6Ehh9L._AC_SX679_.jpg"
         },
         {
             "title": "CMF Speaker S",
             "link": "https://it.nothing.tech/products/cmf-speaker-s?Color=Dark+Grey",
-            "image": "https://cdn.sanity.io/images/gtd4w1cq/production/9223f197e4588fedf937e4700dbb66bfaf79d602-4000x2250.webp?auto=format&fit=max&w=4000"
+            "image": "https://m.media-amazon.com/images/I/71wQiFNtdfL._AC_SL1500_.jpg"
         },
         {
             "title": "BambuLAB A1 Mini",
