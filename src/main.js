@@ -10,12 +10,12 @@ async function loadJSON() {
     try {
         const response = await fetch("./wishlist.json");
         if (!response.ok) {
-            throw new Error(`Errore HTTP: ${response.status}`);
+            throw new Error(`HTTP error: ${response.status}`);
         }
         const data = await response.json();
         return data.products;
     } catch (error) {
-        console.error("Impossibile caricare wishlist.json:", error);
+        console.error("Unable to load 'wishlist.json':", error);
     }
 }
 
@@ -36,7 +36,7 @@ function addElement(products) {
         title.innerText = product.title;
 
         const button = document.createElement("button");
-        button.innerHTML = "Vai alla pagina"
+        button.innerHTML = "Go to page"
         button.addEventListener("click", () => {
             window.open(product.link);
         })
